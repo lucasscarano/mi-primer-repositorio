@@ -1,0 +1,1 @@
+Pretendo ampliar mis pocos conocimientos de Python y aprender técnicas y herramientas que me ayuden en un futuro trabajo de desarrollo.
